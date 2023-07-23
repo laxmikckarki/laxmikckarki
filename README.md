@@ -1,15 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I’m Laxmi!
 ==================================================================================================================================
 
-I am enthusiastic, goal-oriented Software Developer
+I am enthusiastic, goal-oriented Software Developer based in London
 ---------------------------------------------------
 
 I am a Software Developer who loves coding!
 
-* 🌍  I'm based in london
 * 🖥️  See my portfolio at [Portfolio-page](http://github.com/laxmikckarki/por)
-* ✉️  You can contact me at [lkc712628@gmail.com](mailto:lkc712628@gmail.com)
-* 🚀  I'm currently working on [final project](http://final-project-3ls4.onrender.com/)
+* ✉️  How to reach me: [lkc712628@gmail.com](mailto:lkc712628@gmail.com)
+* 🚀  I'm currently working on Code Your Future [final project](http://final-project-3ls4.onrender.com/)
 * 🧠  I'm learning Intro to Python
 * 🤝  I'm open to collaborating on Project
 
