@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am enthusiastic, goal-oriented Software Developer based in London
 ---------------------------------------------------
 
-I am a Software Developer who loves coding!
 
 * 🖥️  See my portfolio at [Portfolio-page](http://github.com/laxmikckarki/por)
 * ✉️  How to reach me: [lkc712628@gmail.com](mailto:lkc712628@gmail.com)
@@ -15,7 +14,7 @@ I am a Software Developer who loves coding!
 <a href="https://www.github.com/laxmikckarki/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/laxmikckarki/?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+### Languages and Tools:
 
 
 <p align="left">
@@ -31,9 +30,9 @@ src="https://img.shields.io/github/followers/laxmikckarki/?logo=github&style=for
 </p>
 
 
-### Socials
+### Connect with me:
 
-<p align="left"> <a href="https://www.codepen.io/laxmi-kc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/laxmikc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/laxmikckarki/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/laxmi-kc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.github.com/laxmikckarki/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/laxmi-kc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -43,6 +42,6 @@ src="https://img.shields.io/github/followers/laxmikckarki/?logo=github&style=for
 
 <a href="http://www.github.com/laxmikckarki/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmikckarki/&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/laxmikckarki/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=laxmikckarki/&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/laxmikckarki"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=laxmikckarki&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/laxmikckarki/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmikckarki/&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/laxmikckarki" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmikckarki&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
