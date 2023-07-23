@@ -8,7 +8,7 @@ I am a Full Stack Developer who loves coding!
 
 * 🌍  I'm based in london
 * ✉️  You can contact me at [lkc712628@gmail.com](mailto:lkc712628@gmail.com)
-* 🧠  I'm learning Intro to Prthon
+* 🧠  I'm learning Intro to Python
 * 🤝  I'm open to collaborating on Project
 
 ### Skills
